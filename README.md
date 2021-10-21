@@ -186,7 +186,7 @@ if __name__ == "__main__":
 
 * CSDN 技术博客地址：
 
-  [https://blog.csdn.net/weixin_43290383/article/details/120895031]()
+  []: https://blog.csdn.net/weixin_43290383/article/details/120895031 "CSDN"
 
 项目版本号：
 
